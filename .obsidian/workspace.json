@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "735043026865feca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff293bc3108bcc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e4d96e79baf57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d49fb9cf68e3684",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab2cf079a634dbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519eb51c461eb0fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "870e27935cecfe02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "91a965a54def081a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c2563e647add9e0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d209cc0cf69e9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa08e73bd617904a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f18099698db50022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "09c04b5545576e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "83e9b219be80c436",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9ca01d2211464bc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "note.md 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "73e4d96e79baf57e",
+  "lastOpenFiles": [
+    "imgs/常见油脂主要脂肪酸的组成.png",
+    "imgs/脂类的组成.png",
+    "未命名.base",
+    "imgs/儿童Kwashiorkor和Marasmus的特征.png",
+    "imgs/氨基酸评分.png",
+    "note.md",
+    "imgs/人体和几种中国食物蛋白质氨基酸模式.png",
+    "imgs/能量需要量的确定直接查表法.png",
+    "imgs/三大营养素每日推荐摄入量.png",
+    "imgs/不同劳动强度能量供给标准.png",
+    "imgs/成人BMI值.png",
+    "imgs/人体基础代谢率.png",
+    "imgs",
+    "新建文件夹",
+    "未命名.md",
+    "note.md.md"
+  ]
+}
